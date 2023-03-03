@@ -14,6 +14,14 @@ switch (program)
         (new SumOfPreviousNumber()).SumPreviousNumbers();
     break;
     
+    case 3:
+        (new ComputeFactorial()).GetFactorial();
+    break;
+    
+    case 4:
+        // code here
+        break;
+    
     default:
         Console.WriteLine("You did not choose any program.");
         break;
