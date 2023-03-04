@@ -19,7 +19,11 @@ switch (program)
     break;
     
     case 4:
-        // code here
+        (new GuessTheNumber()).PickARandomNumber();
+        break;
+    
+    case 5:
+        // code goes here
         break;
     
     default:
