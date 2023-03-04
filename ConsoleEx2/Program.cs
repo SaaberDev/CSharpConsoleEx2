@@ -1,6 +1,6 @@
 ﻿using ConsoleEx2.ControlFlow;
 
-Console.WriteLine("Please choose a program between 1 and 4.");
+Console.WriteLine("Please choose a program between 1 and 5.");
 
 var program = Convert.ToInt16(Console.ReadLine());
 
